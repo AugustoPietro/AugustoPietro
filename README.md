@@ -3,5 +3,5 @@
 </a>
 <br>
 <a href="https://github.com/AugustoPietro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPietro&layout=donut-vertical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPietro&layout=compact" />
 </a>
