@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2F81F7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Augusto+Pietro;I'm+33+years+old;I'm+brazilian;Systems+Analist+and+Developer;Welcome!)](https://git.io/typing-svg)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AugustoPietro&bg_color=transparent&color=ffffff&line=2F81F7&point=#29F2A4&area=true&hide_border=true)](https://github.com/AugustoPietro/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AugustoPietro&bg_color=transparent&color=ffffff&line=2F81F7&point=29F2A4&area=true&hide_border=true)](https://github.com/AugustoPietro/github-readme-activity-graph)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AugustoPietro&show_icons=true&count_private=true&hide_border=true&title_color=1CDD10&icon_color=E80306&text_color=ffffff&bg_color=0d1117" alt="Augusto Pietro github stats" /> 
