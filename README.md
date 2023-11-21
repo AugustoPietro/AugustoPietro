@@ -1,4 +1,4 @@
-uses: Platane/AugustoPietro
+uses: AugustoPietro/AugustoPietro
 with:
   AugustoPietro: ${{ github.AugustoPietro }}
 
