@@ -1,3 +1,6 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoPietro&show_icons=true&bg_color=00000000)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPietro&hide_progress=true_icons=true&bg_color=00000000)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
