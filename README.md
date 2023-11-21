@@ -21,7 +21,7 @@
 
 <div align="center">
   <p><b>Visitors Count</b></p>
-  <img src="https://profile-counter.glitch.me/AugustoPietro/count.svg" style="color:29BCF2;" />
+  <img src="https://profile-counter.glitch.me/AugustoPietro/count.svg" style="font-color:#29BCF2;" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=29BCF2&height=120&section=footer"/>
