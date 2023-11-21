@@ -5,7 +5,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AugustoPietro&show_icons=true&count_private=true&hide_border=true&title_color=29F2A4&icon_color=E80306&text_color=ffffff&bg_color=0d1117" alt="Augusto Pietro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPietro&layout=compact&hide_border=true&title_color=29F2A4&text_color=ffffff&bg_color=false" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoPietro&layout=compact&hide_border=true&title_color=29F2A4&text_color=ffffff&bg_color=transparent" />
 </div>
 
 ### Main skills:
